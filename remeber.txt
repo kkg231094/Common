@@ -1,0 +1,16 @@
+
+create dto with name com.cg.entities
+
+create controller with name com.cg.controllers
+
+Java resources-->resource-->jpacontext.xml------------datasource (url,username,password)
+
+4 things in WEB-INF
+
+(folder) config-->servlet-config.xml
+(folder) jsp
+lib
+web.xml
+
+
+Controller---->  @Controller   @Autowired    @RequestMapping     
